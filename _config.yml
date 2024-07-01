@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Oubo Ma"
-description              : "I am a PhD candidate at Zhejiang University, supervised by Shouling Ji. My current research focuses on the security of reinforcement learning, including adversarial policies and backdoor attacks."
+description              : ""
 repository               : "maoubo/maoubo.github.io"
 google_scholar_stats_use_cdn : true
 
