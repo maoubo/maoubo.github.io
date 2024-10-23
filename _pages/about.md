@@ -19,8 +19,6 @@ redirect_from:
 
 I am a Ph.D. student at Zhejiang University, supervised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). My current research focuses on the security of reinforcement learning, including adversarial policies and backdoor attacks.
 
-I am currently seeking opportunities for a visiting student position. If you are interested and willing to consider me, please let me know via email. I sincerely appreciate it!
-
 # 📝 Conference Publications 
 - [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.](https://arxiv.org/pdf/2402.03741) **Oubo Ma**, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji. **CCS 2024**. 
 - [Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?](https://arxiv.org/pdf/2405.12094) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Shengchao Hu, Mengzhu Wang, Shouling Ji, Jincai Huang, Li Shen. **NeurIPS 2024**. 
