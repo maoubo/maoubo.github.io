@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at Zhejiang University, supervised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). My current research focuses on the security of reinforcement learning, including adversarial policies and backdoor attacks.
+Hi, I’m Oubo Ma, a third-year PhD student at Zhejiang University in the NESA Lab, advised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). My research focuses on the security of reinforcement learning (RL), including adversarial policies and backdoor attacks.
+
+My passion for RL actually started with my love of puzzle games. Over time, I noticed that while most researchers focus on enhancing RL algorithms’ performance across various tasks, there’s less emphasis on addressing their security risks. This gap in attention drives my commitment to uncovering and advancing RL security research. Beyond academics, I’m a big fan of basketball and comedy. If you’d like to chat about any of these topics, feel free to reach out!
 
 # 📝 Conference Publications 
 - [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.](https://arxiv.org/pdf/2402.03741) **Oubo Ma**, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji. **CCS 2024**. 
