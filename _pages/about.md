@@ -32,7 +32,7 @@ My passion for RL actually started with my love of puzzle games. Over time, I no
 - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](../docs/HDRS.pdf) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
 
 <!-- - [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://ieeexplore.ieee.org/abstract/document/10045795) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. -->
-<!-- - [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://ieeexplore.ieee.org/abstract/document/10221772) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**.
+<!-- - [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://ieeexplore.ieee.org/abstract/document/10221772) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**. -->
 <!-- - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://ieeexplore.ieee.org/abstract/document/9565821) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**. -->
 
 <!-- # 📝 arXiv -->
