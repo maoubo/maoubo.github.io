@@ -33,6 +33,7 @@ My passion for RL originates from my love of puzzle games, which sparks my fasci
 
 # 📝 arXiv
 - [UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning.](https://arxiv.org/abs/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **arXiv 2025**. 
+- [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **arXiv 2025**. 
 
 # 📖 Educations
 - *2022.09 - Present*, PH.D., Zhejiang University. 
