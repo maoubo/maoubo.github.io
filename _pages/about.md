@@ -28,6 +28,7 @@ My passion for RL originates from my love of puzzle games, which sparks my fasci
 - [Text Laundering: Mitigating Malicious Features Through Knowledge Distillation of Large Foundation Models.](https://nesa.zju.edu.cn/download/jy_pdf_TextLaundering.pdf) Yi Jiang, Chenghui Shi, **Oubo Ma**, Youliang Tian, Shouling Ji. **Inscrypt 2023**. *Best Student Paper Award*.
 
 # 📝 Journal Publications 
+- [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **Machine Intelligence Research, 2025**. 
 - [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://maoubo.github.io/docs/ABM-V.pdf) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. 
 - [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://maoubo.github.io/docs/RLID-V.pdf) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**.
 - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://maoubo.github.io/docs/HDRS.pdf) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
@@ -35,7 +36,6 @@ My passion for RL originates from my love of puzzle games, which sparks my fasci
 # 📝 arXiv
 - [UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **arXiv 2025**. 
 - [TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models.](https://arxiv.org/pdf/2506.12815) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Xiaochun Cao, Shouling Ji, Jiaheng Zhang, Jincai Huang, Li Shen. **arXiv 2025**. 
-- [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **arXiv 2025**. 
 
 # 📖 Educations
 - *2022.09 - Present*, PH.D., Zhejiang University. 
