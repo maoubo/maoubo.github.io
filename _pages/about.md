@@ -22,6 +22,7 @@ Hi, I'm Oubo Ma, a PhD student at Zhejiang University in the NESA Lab, advised b
 My passion for RL originates from my love of puzzle games, which sparks my fascination with sequential decision-making processes. Over time, I observe that while most researchers prioritize improving the performance of RL algorithms across various tasks, there is comparatively less focus on addressing their security risks. This gap motivates me to explore the potential vulnerabilities of RL from multiple perspectives and to develop solutions aimed at improving the safety and reliability of RL in real-world applications. Outside of academics, I'm a passionate basketball fan and enjoy comedy. Feel free to email me if you’d like to chat about either of these topics!
 
 # 📝 Conference Publications 
+- [TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models.](https://arxiv.org/pdf/2506.12815) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Xiaochun Cao, Shouling Ji, Jiaheng Zhang, Jincai Huang, Li Shen. **ICLR 2026**. 
 - [PRSA: Prompt Stealing Attacks against Real-World Prompt Services.](https://arxiv.org/pdf/2402.19200) Yong Yang, Changjiang Li, Qingming Li, **Oubo Ma**, Haoyu Wang, Zonghui Wang, Yandong Gao, Wenzhi Chen, and Shouling Ji. **USENIX Security 2025**. 
 - [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.](https://arxiv.org/pdf/2402.03741) **Oubo Ma**, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji. **CCS 2024**. 
 - [Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?](https://arxiv.org/pdf/2405.12094) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Shengchao Hu, Mengzhu Wang, Shouling Ji, Jincai Huang, Li Shen. **NeurIPS 2024**. 
@@ -35,7 +36,7 @@ My passion for RL originates from my love of puzzle games, which sparks my fasci
 
 # 📝 arXiv
 - [UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **arXiv 2025**. 
-- [TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models.](https://arxiv.org/pdf/2506.12815) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Xiaochun Cao, Shouling Ji, Jiaheng Zhang, Jincai Huang, Li Shen. **arXiv 2025**. 
+- [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **arXiv 2025**. 
 
 # 📖 Educations
 - *2022.09 - Present*, PH.D., Zhejiang University. 
