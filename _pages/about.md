@@ -21,6 +21,7 @@ Hi, I'm Oubo Ma, a PhD student at Zhejiang University in the NESA Lab, advised b
 Recently, I have also been exploring security issues in large language models, such as jailbreaking and prompt injection.
 
 # 📝 Conference Publications 
+- [Angel or Demon: Investigating the Plasticity Interventions' Impact on Backdoor Threats in Deep Reinforcement Learning.](https://arxiv.org/pdf/2605.14587) **Oubo Ma**, Ruixiao Lin, Yang Dai, Jiahao Chen, Chunyi Zhou, Linkang Du, Shouling Ji. **ICML 2026**. 
 - [TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models.](https://arxiv.org/pdf/2506.12815) Yang Dai, **Oubo Ma**, Longfei Zhang, Xingxing Liang, Xiaochun Cao, Shouling Ji, Jiaheng Zhang, Jincai Huang, Li Shen. **ICLR 2026**. 
 - [PRSA: Prompt Stealing Attacks against Real-World Prompt Services.](https://arxiv.org/pdf/2402.19200) Yong Yang, Changjiang Li, Qingming Li, **Oubo Ma**, Haoyu Wang, Zonghui Wang, Yandong Gao, Wenzhi Chen, and Shouling Ji. **USENIX Security 2025**. 
 - [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.](https://arxiv.org/pdf/2402.03741) **Oubo Ma**, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji. **CCS 2024**. 
@@ -34,6 +35,7 @@ Recently, I have also been exploring security issues in large language models, s
 - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://maoubo.github.io/docs/HDRS.pdf) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
 
 # 📝 arXiv
+- [Shattering the Echo Chamber: Hidden Safeguards in Manuscripts Against the AI Takeover of Peer Review.](https://arxiv.org/pdf/2605.05271) **Oubo Ma**, Ruixiao Lin, Jiahao Chen, Yuan Su, Yong Yang, Shouling Ji. **arXiv 2026**. 
 - [UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **arXiv 2025**. 
 - [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **arXiv 2025**. 
 
