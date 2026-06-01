@@ -29,6 +29,7 @@ Recently, I have also been exploring security issues in large language models, s
 - [Text Laundering: Mitigating Malicious Features Through Knowledge Distillation of Large Foundation Models.](https://nesa.zju.edu.cn/download/jy_pdf_TextLaundering.pdf) Yi Jiang, Chenghui Shi, **Oubo Ma**, Youliang Tian, Shouling Ji. **Inscrypt 2023**. *Best Student Paper Award*.
 
 # 📝 Journal Publications 
+- [Structure-Aware Local Differential Privacy for Multimodal Collaborative Inference in Federated Learning Systems.](https://ieeexplore.ieee.org/abstract/document/11538362) Yuan Gao, Yingjie Xia, Xuejiao Liu, **Oubo Ma**, Shuaifan Jin, Jia-Nan Liu. **IEEE Transactions on Dependable and Secure Computing, 2026**. 
 - [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **Machine Intelligence Research, 2025**. 
 - [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://maoubo.github.io/docs/ABM-V.pdf) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. 
 - [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://maoubo.github.io/docs/RLID-V.pdf) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**.
