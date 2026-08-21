@@ -29,6 +29,7 @@ Recently, I have also been exploring security issues in large language models, s
 - [Text Laundering: Mitigating Malicious Features Through Knowledge Distillation of Large Foundation Models.](https://nesa.zju.edu.cn/download/jy_pdf_TextLaundering.pdf) Yi Jiang, Chenghui Shi, **Oubo Ma**, Youliang Tian, Shouling Ji. **Inscrypt 2023**. *Best Student Paper Award*.
 
 # 📝 Journal Publications 
+- [Action-Level Backdoor Attacks against Deep Reinforcement Learning Systems via Adaptive Reward Exploration.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **IEEE Transactions on Information Forensics & Security, 2026**. 
 - [Structure-Aware Local Differential Privacy for Multimodal Collaborative Inference in Federated Learning Systems.](https://ieeexplore.ieee.org/abstract/document/11538362) Yuan Gao, Yingjie Xia, Xuejiao Liu, **Oubo Ma**, Shuaifan Jin, Jia-Nan Liu. **IEEE Transactions on Dependable and Secure Computing, 2026**. 
 - [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **Machine Intelligence Research, 2025**. 
 - [ABM-V: An Adaptive Backoff Mechanism for Mitigating Broadcast Storm in VANETs.](https://maoubo.github.io/docs/ABM-V.pdf) **Oubo Ma**, Xuejiao Liu, Yingjie Xia. **IEEE Transactions on Vehicular Technology, 2023**. 
@@ -37,7 +38,6 @@ Recently, I have also been exploring security issues in large language models, s
 
 # 📝 arXiv
 - [Shattering the Echo Chamber: Hidden Safeguards in Manuscripts Against the AI Takeover of Peer Review.](https://arxiv.org/pdf/2605.05271) **Oubo Ma**, Ruixiao Lin, Jiahao Chen, Yuan Su, Yong Yang, Shouling Ji. **arXiv 2026**. 
-- [UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **arXiv 2025**. 
 - [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **arXiv 2025**. 
 
 # 📖 Educations
