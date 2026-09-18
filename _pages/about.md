@@ -39,10 +39,10 @@ I am currently on the job market and actively seeking new opportunities in AI sa
 - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://maoubo.github.io/docs/HDRS.pdf) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
 
 # 📝 Preprints
-- [Safety in Self-Evolving Agents: A Survey.](https://www.researchgate.net/profile/Jiahao-Chen-59/publication/414186519_Safety_in_Self-Evolving_Agents_A_Survey/links/6aa2abf9eacf1256dcb3336d/Safety-in-Self-Evolving-Agents-A-Survey.pdf) Jiahao Chen, Zhou Feng, **Oubo Ma**, Yichen Yan, Ruixiao Lin, et al.
-- [The Shape of Ownership: Verifying LLM Provenance through Semantic Structures.](https://arxiv.org/pdf/2609.02553) Zhongrui Sun, Jiahao Chen, **Oubo Ma**, Yuwen Pu, Zhou Feng, Haibo Hu, Shouling Ji. **arXiv 2026**. 
-- [A Finger on the Scale: Covert Policy Steering through Agentic Skills.](https://arxiv.org/pdf/2609.02564) Jiarui Li, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Oubo Ma**, Zhou Feng, Chunqiang Hu, Shouling Ji. **arXiv 2026**. 
-- [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **arXiv 2025**. 
+- [Safety in Self-Evolving Agents: A Survey.](https://www.researchgate.net/profile/Jiahao-Chen-59/publication/414186519_Safety_in_Self-Evolving_Agents_A_Survey/links/6aa2abf9eacf1256dcb3336d/Safety-in-Self-Evolving-Agents-A-Survey.pdf) Jiahao Chen, Zhou Feng, **Oubo Ma**, Yichen Yan, Ruixiao Lin, Hangtao Zhang, Linkang Du, Hengyu An, Yong Yang, et al. **2026**. 
+- [The Shape of Ownership: Verifying LLM Provenance through Semantic Structures.](https://arxiv.org/pdf/2609.02553) Zhongrui Sun, Jiahao Chen, **Oubo Ma**, Yuwen Pu, Zhou Feng, Haibo Hu, Shouling Ji. **2026**. 
+- [A Finger on the Scale: Covert Policy Steering through Agentic Skills.](https://arxiv.org/pdf/2609.02564) Jiarui Li, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Oubo Ma**, Zhou Feng, Chunqiang Hu, Shouling Ji. **2026**. 
+- [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **2025**. 
 
 # 📖 Educations
 - *2022.09 - Present*, PH.D., Zhejiang University. 
