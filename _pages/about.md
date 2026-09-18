@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Oubo Ma, a PhD student at Zhejiang University in the NESA Lab, advised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). My research focuses on the security of reinforcement learning (RL), including adversarial policies and backdoor attacks.
-Recently, I have also been exploring security issues in large language models, such as jailbreaking and prompt injection.
+Hi, I'm Oubo Ma, a Ph.D. candidate at Zhejiang University's NESA Lab, advised by Prof. [Shouling Ji](https://scholar.google.com.hk/citations?user=5HoF_9oAAAAJ&hl=zh-CN&oi=ao). 
+My research is dedicated to AI security, with a dual focus on safeguarding both reinforcement learning systems and large language models against adversarial threats. 
+I am currently on the job market and actively seeking new opportunities in AI safety and cybersecurity.
 
 # 📝 Conference Publications 
 - [IntraGuard: Committee-Side Defenses Against Review Outsourcing to Commercial Chatbots.](https://arxiv.org/pdf/2605.05271) **Oubo Ma**, Ruixiao Lin, Jiahao Chen, Yuan Su, Yong Yang, Shouling Ji. **CCS 2026**. 
@@ -37,7 +38,10 @@ Recently, I have also been exploring security issues in large language models, s
 - [RLID-V: Reinforcement Learning-Based Information Dissemination Policy Generation in VANETs.](https://maoubo.github.io/docs/RLID-V.pdf) Yingjie Xia, Xuejiao Liu, Jing Ou, **Oubo Ma**. **IEEE Transactions on Intelligent Transportation Systems, 2023**.
 - [HDRS: A Hybrid Reputation System with Dynamic Update interval for Detecting Malicious Vehicles in VANETs.](https://maoubo.github.io/docs/HDRS.pdf) Xuejiao Liu, **Oubo Ma**, Wei Chen, Yingjie Xia, Yuxuan Zhou. **IEEE Transactions on Intelligent Transportation Systems, 2022**.
 
-# 📝 arXiv
+# 📝 Preprints
+- [Safety in Self-Evolving Agents: A Survey.](https://www.researchgate.net/profile/Jiahao-Chen-59/publication/414186519_Safety_in_Self-Evolving_Agents_A_Survey/links/6aa2abf9eacf1256dcb3336d/Safety-in-Self-Evolving-Agents-A-Survey.pdf) Jiahao Chen, Zhou Feng, **Oubo Ma**, Yichen Yan, Ruixiao Lin, et al.
+- [The Shape of Ownership: Verifying LLM Provenance through Semantic Structures.](https://arxiv.org/pdf/2609.02553) Zhongrui Sun, Jiahao Chen, **Oubo Ma**, Yuwen Pu, Zhou Feng, Haibo Hu, Shouling Ji. **arXiv 2026**. 
+- [A Finger on the Scale: Covert Policy Steering through Agentic Skills.](https://arxiv.org/pdf/2609.02564) Jiarui Li, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Oubo Ma**, Zhou Feng, Chunqiang Hu, Shouling Ji. **arXiv 2026**. 
 - [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **arXiv 2025**. 
 
 # 📖 Educations
