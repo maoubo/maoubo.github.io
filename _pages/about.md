@@ -31,6 +31,7 @@ I am currently on the job market and actively seeking new opportunities in AI sa
 - [Text Laundering: Mitigating Malicious Features Through Knowledge Distillation of Large Foundation Models.](https://nesa.zju.edu.cn/download/jy_pdf_TextLaundering.pdf) Yi Jiang, Chenghui Shi, **Oubo Ma**, Youliang Tian, Shouling Ji. **Inscrypt 2023**. *Best Student Paper Award*.
 
 # 📝 Journal Publications 
+- [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **IEEE Transactions on Dependable and Secure Computing, 2026**. 
 - [Action-Level Backdoor Attacks against Deep Reinforcement Learning Systems via Adaptive Reward Exploration.](https://arxiv.org/pdf/2501.15529) **Oubo Ma**, Linkang Du, Yang Dai, Chunyi Zhou, Qingming Li, Yuwen Pu, Shouling Ji. **IEEE Transactions on Information Forensics and Security, 2026**. 
 - [Structure-Aware Local Differential Privacy for Multimodal Collaborative Inference in Federated Learning Systems.](https://ieeexplore.ieee.org/abstract/document/11538362) Yuan Gao, Yingjie Xia, Xuejiao Liu, **Oubo Ma**, Shuaifan Jin, Jia-Nan Liu. **IEEE Transactions on Dependable and Secure Computing, 2026**. 
 - [Reformulation is All You Need: Addressing Malicious Text Features in DNNs.](https://arxiv.org/pdf/2502.00652) Yi Jiang, **Oubo Ma**, Yong Yang, Tong Zhang, Shouling Ji. **Machine Intelligence Research, 2025**. 
@@ -42,7 +43,6 @@ I am currently on the job market and actively seeking new opportunities in AI sa
 - [Safety in Self-Evolving Agents: A Survey.](https://www.researchgate.net/profile/Jiahao-Chen-59/publication/414186519_Safety_in_Self-Evolving_Agents_A_Survey/links/6aa2abf9eacf1256dcb3336d/Safety-in-Self-Evolving-Agents-A-Survey.pdf) Jiahao Chen, Zhou Feng, **Oubo Ma**, Yichen Yan, Ruixiao Lin, Hangtao Zhang, Linkang Du, Hengyu An, Yong Yang, et al. **2026**. 
 - [The Shape of Ownership: Verifying LLM Provenance through Semantic Structures.](https://arxiv.org/pdf/2609.02553) Zhongrui Sun, Jiahao Chen, **Oubo Ma**, Yuwen Pu, Zhou Feng, Haibo Hu, Shouling Ji. **2026**. 
 - [A Finger on the Scale: Covert Policy Steering through Agentic Skills.](https://arxiv.org/pdf/2609.02564) Jiarui Li, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Oubo Ma**, Zhou Feng, Chunqiang Hu, Shouling Ji. **2026**. 
-- [TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning.](https://arxiv.org/pdf/2506.09562) Mingxuan Zhang, **Oubo Ma**, Kang Wei, Songze Li, Shouling Ji. **2025**. 
 
 # 📖 Educations
 - *2022.09 - Present*, PH.D., Zhejiang University. 
