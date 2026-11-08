@@ -41,6 +41,7 @@ I am currently on the job market and actively seeking new opportunities in AI sa
 
 # 📝 Preprints
 - [Safety in Self-Evolving Agents: A Survey.](https://www.researchgate.net/profile/Jiahao-Chen-59/publication/414186519_Safety_in_Self-Evolving_Agents_A_Survey/links/6aa2abf9eacf1256dcb3336d/Safety-in-Self-Evolving-Agents-A-Survey.pdf) Jiahao Chen, Zhou Feng, **Oubo Ma**, Yichen Yan, Ruixiao Lin, Hangtao Zhang, Linkang Du, Hengyu An, Yong Yang, et al. **2026**. 
+- [Sleeping Secrets: How Fine-Tuning Reawakens Privacy Risks in Language Models.](https://arxiv.org/pdf/2610.01365) Jianhong Li, Jiahao Chen, Yuwen Pu, Chunyi Zhou, **Oubo Ma**, Zhou Feng, Hangtao Zhang, Jichao Bi, Chunqiang Hu. **2026**. 
 - [The Shape of Ownership: Verifying LLM Provenance through Semantic Structures.](https://arxiv.org/pdf/2609.02553) Zhongrui Sun, Jiahao Chen, **Oubo Ma**, Yuwen Pu, Zhou Feng, Haibo Hu, Shouling Ji. **2026**. 
 - [A Finger on the Scale: Covert Policy Steering through Agentic Skills.](https://arxiv.org/pdf/2609.02564) Jiarui Li, Jiahao Chen, Chunyi Zhou, Yuwen Pu, **Oubo Ma**, Zhou Feng, Chunqiang Hu, Shouling Ji. **2026**. 
 
